@@ -4,7 +4,6 @@
 int main()
 {
     printf("Hello World!\n");
-    printf("This should be in a new branch. fml\n");
-    printf("Kati");
+    printf("This is the new branch called branch2\n");
     return 0;
 }
